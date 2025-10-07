@@ -42,7 +42,7 @@ This project highlights my journey as a full stack and frontend developer.
 | 🎨 **Design Focus** | Clean, responsive, minimal design |
 | 🧠 **Purpose** | To showcase my skills, education, and projects as a developer |
 | 🌟 **Key Features** | Responsive layout, project cards, about section, contact links |
-| 🚀 **Deployed Link** | [View Live Portfolio](file:///C:/Users/Sweety/OneDrive/Documents/Desktop/Portfolio/home.html) |
+| 🚀 **Deployed Link** | [View Live Portfolio](https://github.com/ankithakanneboina/Portfolio/tree/main?tab=readme-ov-file) |
 | 🗂️ **Repository Link** | [GitHub Repo](https://github.com/ankithakanneboina/Portfolio) |
 | 👩‍💻 **Developed By** | Ankitha Kanneboina |
 | 📅 **Year** | 2025 |
@@ -60,8 +60,7 @@ This project highlights my journey as a full stack and frontend developer.
 
 🚀 Live Demo
 
-file:///C:/Users/Sweety/OneDrive/Documents/Desktop/Portfolio/home.html
-
+https://github.com/ankithakanneboina/Portfolio/tree/main?tab=readme-ov-file
 📂 Folder Structure
 Portfolio/
 │
