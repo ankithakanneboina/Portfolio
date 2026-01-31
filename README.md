@@ -115,7 +115,7 @@ Run using VS Code Live Server extension.
 
 | Section | Screenshot | Description |
 |----------|-------------|--------------|
-| 🏠 **Home Page** | ![Home Screenshot](screenshots/home.png) | Hero section with name, title, and call-to-action buttons. |
+| 🏠 **Home Page** | ![Home Screenshot](screenshots(103).png) | Hero section with name, title, and call-to-action buttons. |
 | 👩‍💻 **About Section** | ![About Screenshot](screenshots/about.png) | Short introduction, education details, and developer bio. |
 | 🧩 **Projects Section** | ![Projects Screenshot](screenshots/projects.png) | Grid of projects (Quiz App, Smart Kisaan, Portfolio). |
 | 💼 **Resume Section** | ![Resume Screenshot](screenshots/resume.png) | Downloadable resume and list of skills. |
